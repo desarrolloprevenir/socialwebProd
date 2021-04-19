@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Group_2" data-name="Group 2" width="1366" height="769" viewBox="0 0 1366 769" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.193" y1="0.101" x2="-0.717" y2="1.389" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.498" stop-color="#398bf7"/>
+      <stop offset="0.647" stop-color="#04CDF0"/>
+      <stop offset="0.863" stop-color="#398bf7"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.171" y1="0.022" x2="0.189" y2="1.068" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#000" stop-opacity="0.6"/>
+      <stop offset="0.686" stop-color="#000" stop-opacity="0.051"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.699" y1="0.078" x2="0.209" y2="1.476" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="2.48" y1="-5.297" x2="0.032" y2="2.248" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="2.465" y1="-4.879" x2="0.017" y2="2.068" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <path id="Path_2" data-name="Path 2" d="M 889.082 769 L 1366 769 L 1366 0 L 1254.276 -1.301 C 1236.427 3.826 1371.82 0.006 1325.504 36.233 C 1273.731 76.728 1242.874 171.599 1247.528 218.861 C 1251.777 262.008 1255.161 315.047 1296.025 359.682 C 1399.784 473.015 1341.148 626.798 1213.497 680.079 C 1183.946 692.414 900.717 755.2 889.082 769 Z" fill="url(#linear-gradient)" style=""/>
+  <path id="Path_3" data-name="Path 3" d="M 1224.795 182.301 C 1240.081 290.141 1292.379 300.536 1304.795 388.301 C 1321.944 509.524 1245.462 653.267 1180.795 652.301 C 1132.832 651.585 1154.124 521.682 1048.795 424.301 C 971.395 352.739 851.279 319.975 820.795 354.301 C 815.527 360.233 813.227 367.841 812.863 376.46 C 849.678 367.437 885.014 361.695 912.295 381.801 C 963.485 419.527 981.737 516.882 957.912 605.945 C 983.65 631.384 1007.981 658.21 1030.795 686.301 C 1062.695 725.645 1069.599 746.396 1082.273 765.096 L 1360.795 770.301 L 1360.795 1.301 L 1248.206 13.012 C 1215.14 58.007 1217.304 129.457 1224.795 182.301 Z" opacity="0.3" fill="url(#linear-gradient-2)"/>
+  <path id="Path_4" data-name="Path 4" d="M354.425,250.868c3.09-22-44.15-65.247-90.1-79.993-13.042-4.185-88.4-28.369-114.082,36.36-5.543,13.973-16.084,46.978-5.814,60.6,9.575,12.7,56.678,9.7,122.8-13.333C336.936,230.228,352.533,264.342,354.425,250.868Z" opacity="0.14" fill="url(#linear-gradient-3)"/>
+  <path id="Path_5" data-name="Path 5" d="M 302.5 733.515 C 188.141 729.585 61.9 741.693 0 754.939 L 0 769 L 568.728 769 C 482.868 757.764 422.313 737.632 302.5 733.515 Z" fill="url(#linear-gradient-4)" style=""/>
+  <path id="Path_6" data-name="Path 6" d="M 1.301 732.358 L 1.301 771.915 L 525.029 771.915 C 439.169 751.583 350.665 718.646 230.852 711.197 C 139.702 705.529 68.952 714.806 1.301 732.358 Z" opacity="0.19" fill="url(#linear-gradient-5)" style=""/>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="11.5" cy="11.5" r="11.5" transform="translate(1096 75)" fill="#000" opacity="0.2"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="3" cy="3" r="3" transform="translate(749 362)" fill="#000" opacity="0.12"/>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="8" cy="8" r="8" transform="translate(1118 404)" fill="#000" opacity="0.2"/>
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="7" cy="7" r="7" transform="translate(775 35)" fill="#000" opacity="0.13"/>
+  <path id="Path_7" data-name="Path 7" d="M 940.813 222.282 C 967.919 172.75 954.723 102.79 920.813 84.282 C 895.106 70.251 871.913 93.659 848.813 78.282 C 826.586 63.482 829.773 29.643 829.138 4.965 C 818.19 18.289 808.538 32.626 800.313 47.782 C 781.834 81.862 768.972 123.093 763.986 163.311 C 773.484 172.485 781.22 183.321 786.813 195.282 C 807.792 239.002 790.535 264.658 809.813 279.282 C 837.58 300.346 911.425 275.982 940.813 222.282 Z" opacity="0.3" fill="url(#linear-gradient-6)"/>
+</svg>
